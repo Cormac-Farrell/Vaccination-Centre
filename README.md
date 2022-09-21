@@ -1,2 +1,3 @@
 # Vacination-Centre
-Assignment 1 of Data Structures and Algorithms 1, designed to track a number 
+Assignment 1 of Data Structures and Algorithms
+A system designed to track patients in several vaccination centres and scheduling appointments.
